@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" width="1000" height="200" role="img" aria-label="Neri Edri — Full-Stack Developer specializing in automation, web systems and AI-powered solutions">
+  <defs>
+    <clipPath id="card">
+      <rect width="1000" height="200" rx="12" ry="12"/>
+    </clipPath>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="55%" stop-color="#f6f8fa"/>
+      <stop offset="100%" stop-color="#eef2f8"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0969da"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#0969da" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#0969da" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.6" cy="1.6" r="1.1" fill="#0d1117" opacity="0.055"/>
+    </pattern>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1000" height="200" fill="url(#bg)"/>
+    <rect width="1000" height="200" fill="url(#dots)"/>
+    <circle cx="880" cy="40" r="190" fill="url(#glow)"/>
+    <rect x="0" y="0" width="6" height="200" fill="url(#accent)"/>
+
+    <text x="48" y="84" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="0.4" fill="#0d1117">Neri Edri</text>
+    <text x="50" y="116" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="16" fill="#57606a">Full-Stack Developer &#183; Automation, Web Systems &amp; AI-Powered Solutions</text>
+    <rect x="50" y="132" width="34" height="2" rx="1" fill="url(#accent)"/>
+    <text x="50" y="160" font-family="ui-monospace, 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="11.5" letter-spacing="2.1" fill="#0969da">PYTHON &#183; FASTAPI &#183; TYPESCRIPT &#183; REACT &#183; POSTGRESQL &#183; DOCKER</text>
+
+    <g opacity="0.85">
+      <rect x="706" y="40" width="252" height="120" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+      <circle cx="723" cy="57" r="3.5" fill="#f85149"/>
+      <circle cx="735" cy="57" r="3.5" fill="#d29922"/>
+      <circle cx="747" cy="57" r="3.5" fill="#2ea043"/>
+      <rect x="722" y="78" width="118" height="6" rx="3" fill="#0969da" opacity="0.7"/>
+      <rect x="722" y="94" width="182" height="6" rx="3" fill="#d8dee4"/>
+      <rect x="734" y="110" width="140" height="6" rx="3" fill="#d8dee4"/>
+      <rect x="734" y="126" width="94" height="6" rx="3" fill="#6366f1" opacity="0.6"/>
+      <rect x="722" y="142" width="158" height="6" rx="3" fill="#d8dee4"/>
+    </g>
+  </g>
+</svg>
