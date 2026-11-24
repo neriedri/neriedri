@@ -8,10 +8,10 @@
 
 <br>
 
-<a href="https://portfolio-website-psi-gray-62.vercel.app/">
+<a href="neria-edri.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
-<a href="https://www.linkedin.com/in/neri-edri-111388341">
+<a href="https://www.linkedin.com/in/neria-edri-111388341">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:neriapple7@gmail.com">
